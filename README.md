@@ -2,7 +2,7 @@
 
 This repository contains the HTML code for a simple burgers website.
 
-🔗 **Live Demo**: [View Demo](https://example.com)
+🔗 **Live Demo**: [View Demo](https://ashy-bay-0ffc24210.3.azurestaticapps.net/)
 
 ## Features ✨
 
