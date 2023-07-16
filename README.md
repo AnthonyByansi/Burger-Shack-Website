@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/AnthonyByansi/Burger-Shack-Website)
+
 # Burger Shack Website 🍔
 
 This repository contains the HTML code for a simple burgers website.
